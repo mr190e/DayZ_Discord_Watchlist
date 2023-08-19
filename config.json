@@ -1,0 +1,16 @@
+{
+  "prefix": "!",
+  "botToken": "Discord-Token",
+  "Discord_Channel_ID": "ChannelID",
+  "pingRoleID": "ping-me",
+  "servers": {
+    "Server1": {
+      "secret": "CF-Tools-Secret",
+      "port": 3004
+    },
+    "Server2": {
+      "secret": "CF-Tools-Secret",
+      "port": 3005
+    }
+  }
+}
